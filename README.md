@@ -65,14 +65,6 @@ git pull origin main
 
 ---
 
-## 📝 Notas
-
-- Cada carpeta `UTx` corresponde a una **Unidad de Trabajo** de la asignatura.
-- El repositorio se irá ampliando a medida que avance el curso.
-- Algunos archivos pueden haberse eliminado o reorganizado durante el desarrollo de las actividades.
-
----
-
 <p align="center">
   Hecho con ☕ por <b>Diego Collado Gómez</b>
 </p>
