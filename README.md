@@ -29,31 +29,6 @@ Resumen de la actividad reciente del repositorio, tal y como se ve en la rama `m
 
 ---
 
-## 🚀 Cómo usar este repositorio
-
-### Clonar el repositorio
-
-```bash
-git clone https://github.com/Colladin/ASO.git
-cd ASO
-```
-
-### Ejecutar un script de la UT2
-
-```bash
-cd UT2/UT2-script-ASO
-chmod +x nombre_del_script.sh
-./nombre_del_script.sh
-```
-
-### Actualizar tu copia local
-
-```bash
-git pull origin main
-```
-
----
-
 ## 📚 ¿Qué es ASO?
 
 **ASO** corresponde a la asignatura de **Administración de Sistemas Operativos**, en la que se trabajan contenidos como:
