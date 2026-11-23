@@ -1,10 +1,5 @@
 # 🖥️ ASO
 
-![Estado](https://img.shields.io/badge/estado-activo-brightgreen)
-![Visibilidad](https://img.shields.io/badge/repositorio-público-blue)
-![Asignatura](https://img.shields.io/badge/asignatura-ASO-orange)
-![Shell](https://img.shields.io/badge/scripts-Bash-4EAA25?logo=gnubash&logoColor=white)
-
 > Repositorio de la asignatura **ASO (Administración de Sistemas Operativos)**, donde voy guardando las actividades, prácticas y scripts de cada unidad de trabajo.
 
 ---
@@ -13,24 +8,6 @@
 
 **Diego Collado Gómez**
 GitHub: [@Colladin](https://github.com/Colladin)
-
----
-
-## 📂 Estructura del repositorio
-
-```text
-ASO/
-├── UT1/          # Unidad de Trabajo 1
-├── UT2/          # Unidad de Trabajo 2
-│   └── UT2-script-ASO/   # Scripts de la unidad
-└── README.md     # Este archivo
-```
-
-| Carpeta / Archivo | Descripción | Última actualización |
-|-------------------|-------------|----------------------|
-| 📁 `UT1` | Material y actividades de la primera unidad de trabajo. Subido mediante *Add files via upload*. | Hace 2 semanas |
-| 📁 `UT2` | Material y scripts de la segunda unidad de trabajo. Su último cambio fue eliminar el script `actividad2.sh`. | Hace 1 minuto |
-| 📄 `README.md` | Documento de presentación del repositorio (creado en el *Initial commit*). | Hace 2 meses |
 
 ---
 
