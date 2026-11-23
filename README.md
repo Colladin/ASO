@@ -41,5 +41,5 @@ Resumen de la actividad reciente del repositorio, tal y como se ve en la rama `m
 ---
 
 <p align="center">
-  Hecho con ☕ por <b>Diego Collado Gómez</b>
+  Hecho por <b>Diego Collado Gómez</b>
 </p>
