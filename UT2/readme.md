@@ -14,16 +14,6 @@ Carpeta de la **Unidad de Trabajo 2** de la asignatura **ASO (Administración de
 | 📁 `Actividad 2` | Segunda actividad. Contiene el script `actividad2.sh`. |
 | 📁 `Actividad 3` | Tercera actividad, con su propio `readme.md` explicativo. |
 | 📁 `UT2-script-ASO` | Carpeta de scripts de la unidad (el script `actividad2.sh` se movió a `Actividad 2`). |
-| 📄 `readme.md` | Este documento. |
-
----
-
-## 🚀 Uso rápido
-
-```bash
-git clone https://github.com/Colladin/ASO.git
-cd ASO/UT2
-```
 
 ---
 
